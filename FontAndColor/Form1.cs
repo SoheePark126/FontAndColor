@@ -16,5 +16,10 @@ namespace FontAndColor
         {
             InitializeComponent();
         }
+
+        private void RtbText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

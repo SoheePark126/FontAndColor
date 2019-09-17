@@ -95,6 +95,7 @@
             this.rtbText.Size = new System.Drawing.Size(296, 212);
             this.rtbText.TabIndex = 3;
             this.rtbText.Text = "로렘 입숨";
+            this.rtbText.TextChanged += new System.EventHandler(this.RtbText_TextChanged);
             // 
             // Form1
             // 
